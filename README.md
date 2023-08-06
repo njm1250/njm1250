@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Park JunHyuk
+👋 Hi, I’m Park JunHyuk
 
   
 <div style="text-align: left;">

@@ -22,6 +22,7 @@
             <div style="display: flex; flex-wrap: wrap; gap: 10px;">
                 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
                 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+                <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
             </div>
         </div>
         <div style="margin: 15px 0;">

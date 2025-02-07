@@ -15,6 +15,7 @@
             <div style="display: flex; flex-wrap: wrap; gap: 10px;">
                 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
                 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+                <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
             </div>
         </div>
         <div style="margin: 15px 0;">

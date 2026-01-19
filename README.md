@@ -1,3 +1,5 @@
+<div align="center">
+
 **Skills**
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -10,9 +12,8 @@
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=njm1250&layout=compact&langs_count=6&theme=tokyonight" height="160" />
-
-
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/njm1250" width="600" height="300"/>
 </a>
+
+</div>
